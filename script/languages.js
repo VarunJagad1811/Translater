@@ -137,220 +137,85 @@ const languages = [
     native: "ქართული",
     code: "ka",
   },
+  // --- Supported Indian Languages in Google Translate ---
   {
     no: "23",
-    name: "German",
-    native: "Deutsch",
-    code: "de",
+    name: "Assamese",
+    native: "অসমীয়া",
+    code: "as"
   },
   {
     no: "24",
-    name: "Greek",
-    native: "Ελληνικά",
-    code: "el",
+    name: "Bengali",
+    native: "বাংলা",
+    code: "bn"
   },
   {
     no: "25",
-    name: "Haitian Creole",
-    native: "Kreyòl ayisyen",
-    code: "ht",
+    name: "Gujarati",
+    native: "ગુજરાતી",
+    code: "gu"
   },
   {
     no: "26",
-    name: "Hebrew",
-    native: "עברית",
-    code: "iw",
+    name: "Hindi",
+    native: "हिन्दी",
+    code: "hi"
   },
   {
     no: "27",
-    name: "Hindi",
-    native: "हिन्दी",
-    code: "hi",
+    name: "Kannada",
+    native: "ಕನ್ನಡ",
+    code: "kn"
   },
   {
     no: "28",
-    name: "Hungarian",
-    native: "Magyar",
-    code: "hu",
+    name: "Malayalam",
+    native: "മലയാളം",
+    code: "ml"
   },
   {
     no: "29",
-    name: "Icelandic",
-    native: "Íslenska",
-    code: "is",
+    name: "Marathi",
+    native: "मराठी",
+    code: "mr"
   },
   {
     no: "30",
-    name: "Indonesian",
-    native: "Bahasa Indonesia",
-    code: "id",
+    name: "Nepali",
+    native: "नेपाली",
+    code: "ne"
   },
   {
     no: "31",
-    name: "Irish",
-    native: "Gaeilge",
-    code: "ga",
+    name: "Odia",
+    native: "ଓଡ଼ିଆ",
+    code: "or"
   },
   {
     no: "32",
-    name: "Italian",
-    native: "Italiano",
-    code: "it",
+    name: "Punjabi",
+    native: "ਪੰਜਾਬੀ",
+    code: "pa"
   },
   {
     no: "33",
-    name: "Japanese",
-    native: "日本語",
-    code: "ja",
+    name: "Sindhi",
+    native: "سنڌي",
+    code: "sd"
   },
   {
     no: "34",
-    name: "Korean",
-    native: "한국어",
-    code: "ko",
+    name: "Tamil",
+    native: "தமிழ்",
+    code: "ta"
   },
   {
     no: "35",
-    name: "Latvian",
-    native: "Latviešu",
-    code: "lv",
-  },
-  {
-    no: "36",
-    name: "Lithuanian",
-    native: "Lietuvių kalba",
-    code: "lt",
-  },
-  {
-    no: "37",
-    name: "Macedonian",
-    native: "Македонски",
-    code: "mk",
-  },
-  {
-    no: "38",
-    name: "Malay",
-    native: "Malay",
-    code: "ms",
-  },
-  {
-    no: "39",
-    name: "Maltese",
-    native: "Malti",
-    code: "mt",
-  },
-  {
-    no: "40",
-    name: "Norwegian",
-    native: "Norsk",
-    code: "no",
-  },
-  {
-    no: "41",
-    name: "Persian",
-    native: "فارسی",
-    code: "fa",
-  },
-  {
-    no: "42",
-    name: "Polish",
-    native: "Polski",
-    code: "pl",
-  },
-  {
-    no: "43",
-    name: "Portuguese",
-    native: "Português",
-    code: "pt",
-  },
-  {
-    no: "44",
-    name: "Romanian",
-    native: "Română",
-    code: "ro",
-  },
-  {
-    no: "45",
-    name: "Russian",
-    native: "Русский",
-    code: "ru",
-  },
-  {
-    no: "46",
-    name: "Serbian",
-    native: "Српски",
-    code: "sr",
-  },
-  {
-    no: "47",
-    name: "Slovak",
-    native: "Slovenčina",
-    code: "sk",
-  },
-  {
-    no: "48",
-    name: "Slovenian",
-    native: "Slovensko",
-    code: "sl",
-  },
-  {
-    no: "49",
-    name: "Spanish",
-    native: "Español",
-    code: "es",
-  },
-  {
-    no: "50",
-    name: "Swahili",
-    native: "Kiswahili",
-    code: "sw",
-  },
-  {
-    no: "51",
-    name: "Swedish",
-    native: "Svenska",
-    code: "sv",
-  },
-  {
-    no: "52",
-    name: "Thai",
-    native: "ไทย",
-    code: "th",
-  },
-  {
-    no: "53",
-    name: "Turkish",
-    native: "Türkçe",
-    code: "tr",
-  },
-  {
-    no: "54",
-    name: "Ukrainian",
-    native: "Українська",
-    code: "uk",
-  },
-  {
-    no: "55",
-    name: "Urdu",
-    native: "اردو",
-    code: "ur",
-  },
-  {
-    no: "56",
-    name: "Vietnamese",
-    native: "Tiếng Việt",
-    code: "vi",
-  },
-  {
-    no: "57",
-    name: "Welsh",
-    native: "Cymraeg",
-    code: "cy",
-  },
-  {
-    no: "58",
-    name: "Yiddish",
-    native: "ייִדיש",
-    code: "yi",
-  },
+    name: "Telugu",
+    native: "తెలుగు",
+    code: "te"
+  }
 ];
+
+export default languages;
